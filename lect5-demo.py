@@ -4,7 +4,7 @@ from dotenv import load_dotenv, find_dotenv
 
 BASE_URL = 'https://api.nytimes.com/svc/search/v2/articlesearch.json'
 
-load_dotenv(find_dotenv())
+load_dotenv(find_dotenv()) # This is to load your API keys from .env
 
 params = {
     'q': 'gamestop',
