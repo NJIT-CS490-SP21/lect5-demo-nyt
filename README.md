@@ -1,7 +1,7 @@
 # Lecture 5 Demo - NYT API
 
 This demo explains how to call the New York Times API using the Python requests library and parse its JSON data.
-It also shows how you can hide your API keys with a .env file and .gitignore file.
+It also shows how you can store and hide your API keys with a `.env` file and `.gitignore` file, respectively.
 
 ## Requirements
 1. `pip install python-dotenv`
