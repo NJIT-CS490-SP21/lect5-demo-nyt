@@ -13,4 +13,5 @@ It also shows how you can hide your API keys with a .env file and .gitignore fil
 
 ## Run Application
 1. Run command in terminal `python lect5-demo.py`
-2. See output for Gamestop articles 
+2. See output with list of Gamestop articles 
+
